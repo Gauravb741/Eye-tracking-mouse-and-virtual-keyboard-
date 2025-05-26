@@ -25,7 +25,7 @@ pip install opencv-python mediapipe pyautogui numpy pynput
 Simply execute the Python script and follow on-screen instructions to choose a mode:
 
 ```
-python your_script_name.py
+Eyetracking mouse + Virtual keyboard.py
 ```
 
 - Press `Esc` to exit.
