@@ -12,7 +12,13 @@ This project allows control of the mouse using eye-tracking and hand gestures, a
 Install dependencies using:
 
 ```
-pip install -r requirements.txt
+pip install opencv-python
+pip install mediapipe
+pip install pyautogui
+pip install numpy
+pip install pynput
+pip install opencv-python mediapipe pyautogui numpy pynput
+
 ```
 
 ## How to Run
